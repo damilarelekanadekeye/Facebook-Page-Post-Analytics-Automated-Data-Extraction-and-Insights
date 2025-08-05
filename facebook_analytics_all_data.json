@@ -1,0 +1,85 @@
+{
+    "raw_page_insights": {
+        "data": [
+            {
+                "name": "page_impressions",
+                "period": "days_28",
+                "values": [
+                    {
+                        "value": 0,
+                        "end_time": "2025-06-21T07:00:00+0000"
+                    },
+                    {
+                        "value": 15,
+                        "end_time": "2025-06-22T07:00:00+0000"
+                    }
+                ],
+                "title": "28 Days Total Impressions",
+                "description": "28 Days: The number of times any content from your Page or about your Page entered a person's screen. This includes posts, stories, ads, as well other content or information on your Page. (Total Count)",
+                "id": "654529707751538/insights/page_impressions/days_28"
+            },
+            {
+                "name": "page_post_engagements",
+                "period": "days_28",
+                "values": [
+                    {
+                        "value": 0,
+                        "end_time": "2025-06-21T07:00:00+0000"
+                    },
+                    {
+                        "value": 2,
+                        "end_time": "2025-06-22T07:00:00+0000"
+                    }
+                ],
+                "title": "28 Days Post Engagements",
+                "description": "28 Days: The number of times people have engaged with your posts through like, comments and shares and more.",
+                "id": "654529707751538/insights/page_post_engagements/days_28"
+            },
+            {
+                "name": "page_actions_post_reactions_total",
+                "period": "days_28",
+                "values": [
+                    {
+                        "value": {},
+                        "end_time": "2025-06-21T07:00:00+0000"
+                    },
+                    {
+                        "value": {
+                            "like": 1
+                        },
+                        "end_time": "2025-06-22T07:00:00+0000"
+                    }
+                ],
+                "title": null,
+                "description": "The daily total post reactions of a Page by type.",
+                "id": "654529707751538/insights/page_actions_post_reactions_total/days_28"
+            }
+        ],
+        "paging": {
+            "previous": "https://graph.facebook.com/v23.0/654529707751538/insights?access_token=EAAJsRK4bgtYBO83LpCVXdgvdCJJBuTgnrgrNIHZB86CZASZAUZCkUrsjlZCEAUB4STf5QEgRdqFIUQXThb4rJeTPFvWzEZAQlBlZAfsZCLVjPTGQDRAWHEn3VdmFQ7zOuaaWa3hcyt5CjTqBu66bQBPQCEOD8XZCYwsyisNuaJ1jc6zepX3F8eNDDvnlJpEjkGooMf09WwqASrGZCEfKjKaBU1BR4y&metric=page_impressions%2Cpage_post_engagements%2Cpage_fans%2Cpage_actions_post_reactions_total&period=days_28&since=1750230000&until=1750402800",
+            "next": "https://graph.facebook.com/v23.0/654529707751538/insights?access_token=EAAJsRK4bgtYBO83LpCVXdgvdCJJBuTgnrgrNIHZB86CZASZAUZCkUrsjlZCEAUB4STf5QEgRdqFIUQXThb4rJeTPFvWzEZAQlBlZAfsZCLVjPTGQDRAWHEn3VdmFQ7zOuaaWa3hcyt5CjTqBu66bQBPQCEOD8XZCYwsyisNuaJ1jc6zepX3F8eNDDvnlJpEjkGooMf09WwqASrGZCEfKjKaBU1BR4y&metric=page_impressions%2Cpage_post_engagements%2Cpage_fans%2Cpage_actions_post_reactions_total&period=days_28&since=1750575600&until=1750748400"
+        }
+    },
+    "page_posts_list": {
+        "data": [
+            {
+                "id": "654529707751538_122093590958929499",
+                "message": "Success. An unlimited solution to failure.",
+                "created_time": "2025-06-22T10:44:19+0000",
+                "permalink_url": "https://www.facebook.com/122094368966929499/posts/122093590958929499"
+            },
+            {
+                "id": "654529707751538_122093348108929499",
+                "message": "fruits - a good diet for the body.",
+                "created_time": "2025-06-21T22:44:04+0000",
+                "permalink_url": "https://www.facebook.com/122094368966929499/posts/122093348108929499"
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "before": "QVFIUmF2cWl3aWpHZAWw1ZAk5NZAHJrSGFkT3pfOWpCNkY2emtpanBLY3g3ejFpQ2NvNllPUWc0UUtpbUNSTzlJdGFTbU92MUtkcGZAUZAHhucVBWeUc0cVBXNG5zcDY4RnY2dC1KZAWRxYzg1VnhsY01nSWllN1FXaG9KbDF5NnNERkxFY3U1RWMxVnZAwS2xMYy02SHBlbzBXRmZAGM05YMzlDdVlBaUVBWjA4VWRfdGo1RVFIZAzl3d2pFNi1xWTVNYkNYVUQwZAlFRbVF6YmE4THJNYWdaR2JxRUgteVJMWkRGYnB2cDd3bnhmelVrMWVvZAG1DSkdzd1E1RWl6WWtPUklubnU0bEF4NnE2VHo3eGVBVVZAmckpMU3ZA2a3FUb3VaS2tVSzhGZAzRiUkFsMDU1czRxX1NOV1A3UnM1UTVkaEZAReXdSMlFKX1ZAsZAUNBVlVscEpnQXlqd2k0ZAUdVNk1GZAUE1RS0yT3EyenhOb3lSLXJaZAllEakpNM2tYRk94am5hQ2xSNk5YX1Q1RURPS0JOcTBUZAEpCdnFyZAXhGdk1wSktBbmtsUDIyRzFPQk05dUxVenJaRElBQXZAuMlhPbnhKOTBGME1obkUtczZABZAnhpdWJ4ZAGVuQUFQMmJUdTBvSy1uX3pHQzJWem9fTU5xS3BIZAFZAzaHp1ajBaalYyRWJiOElQbmhCOFFIb0FDdXZAfcGluZAVVvX0l4QTlwSFhTV3hNWS0zV0gzZADVzRUlLYTRZASkVLVGxQQ2pUMFJwRlNmU1JfcUdKMjl2cjJhLXVsZADdBSTM4NENPZAnFVV1l1azFMZA25jdENCTG1iVk5yWno3cDAzT3ZAmdWpSUDJXUlJMTVRBR3JYc0RudWowR19nbVpsLUJlMUdDZAEc3Vndjd2hn",
+                "after": "QVFIUjVGQ3Q3RHM4TmdzeFpyMlpZAZATJsRGFvNGVQUy1mRHhlVDFYUUNyank3cjdwQlhfS2hFdWh2bWEwdGFhXzdYTTlySW1ZAdnRPRnB4d3Y2cTk5MDVUNHJxZAUNOVWpoSjQ2d28yZAWx5VmQ4d2c0dm9WaUFuMFFXRE1iOFFXSlh0WDlycF9UV3drenIzYXczcmZAUTHl4WHVHdWlSRE53UVQzUGNrVnhDN3lSTjRoSlV4UklIZAFg2bXR6MmtfRThPM01HM1A3a1M4NGVTcnVBazZAsTDlEYVgzcGxacFFrcDh6SEw0N21XMWhGZAUlEZAGlxOFd1SFhoVFRMa2gtc1h5MzRxa014NTkyTWhUYWNtU1RfVndkYkRWcENQSHc0SEhqal9DN01lUEtPRVZAtU2V2UEpqSTI4aW42NmdtQUhxakdEMTFoVFNpU1puQ2JGRURuNmEtVG1IQWNRUG1SS3RWWVoyR0I1X0hDUzZAfbWVNTENaYWczUVBnY2FrR3RMTXhfeFg1dURlcW1JZAU45RTR5YmhXR0NVaTA1WlItcUNfQjZAxMWNXWkRXc0JyajlXLTV5eThWMVBqckE1U3huaVhyLWEtYVh4c0E2dTl6QVVNcVJqYjJkMVFhYjN5M0lkd0FCTlZAjOUtVWDliUHgtdENTTG5FUVRHMTBUMmNyeUNqd2VtcWJxemk1NUk5dldvX01GZA05CVEV4Y0luZAVloQ0JyTFRhNk5XaTFoU1NEZA0dsWXR4RS00ZA0U3X1hfQ1BOQVlFNDlfZAEQ4cjFpb2RXWmNPNU05RU5UbEdlRXZAUR09GckZAIZADRONnM2Uzl4N2V6RXduWmt3RHBQb212dWJyWldmczd4VnItc3p3TnVIS2pDZAlpWNGpXSEVjeHVn"
+            }
+        }
+    }
+}

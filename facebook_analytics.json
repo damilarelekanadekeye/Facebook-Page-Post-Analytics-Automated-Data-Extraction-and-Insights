@@ -1,0 +1,65 @@
+{
+    "page_level_summary": {
+        "page_impressions": 15,
+        "page_post_engagements": 2,
+        "page_actions_post_reactions_total": {
+            "like": 1
+        }
+    },
+    "comprehensive_post_analytics": [
+        {
+            "post_details": {
+                "id": "654529707751538_122093590958929499",
+                "message": "Success. An unlimited solution to failure.",
+                "created_time": "2025-06-22T10:44:19+0000",
+                "permalink_url": "https://www.facebook.com/122094368966929499/posts/122093590958929499"
+            },
+            "insights": {
+                "post_impressions": 3,
+                "post_impressions_unique": 3,
+                "post_engaged_users": 0,
+                "post_clicks": 2,
+                "post_reactions_like_total": 1,
+                "post_reactions_love_total": 0,
+                "post_reactions_wow_total": 0,
+                "post_reactions_haha_total": 0,
+                "post_reactions_sad_total": 0,
+                "post_reactions_angry_total": 0
+            },
+            "summary": {
+                "impressions": 3,
+                "reach": 3,
+                "engaged_users": 0,
+                "clicks": 2,
+                "total_likes": 1
+            }
+        },
+        {
+            "post_details": {
+                "id": "654529707751538_122093348108929499",
+                "message": "fruits - a good diet for the body.",
+                "created_time": "2025-06-21T22:44:04+0000",
+                "permalink_url": "https://www.facebook.com/122094368966929499/posts/122093348108929499"
+            },
+            "insights": {
+                "post_impressions": 3,
+                "post_impressions_unique": 3,
+                "post_engaged_users": 0,
+                "post_clicks": 1,
+                "post_reactions_like_total": 3,
+                "post_reactions_love_total": 0,
+                "post_reactions_wow_total": 0,
+                "post_reactions_haha_total": 0,
+                "post_reactions_sad_total": 0,
+                "post_reactions_angry_total": 0
+            },
+            "summary": {
+                "impressions": 3,
+                "reach": 3,
+                "engaged_users": 0,
+                "clicks": 1,
+                "total_likes": 3
+            }
+        }
+    ]
+}
