@@ -94,7 +94,7 @@ def setup_api():
     
         # --- Facebook Credentials ---
     FACEBOOK_PAGE_ID = "654529707751538" #YOUR_FACEBOOK_PAGE_ID
-    FACEBOOK_PAGE_ACCESS_TOKEN = "EAAJsRK4bgtYBO83LpCVXdgvdCJJBuTgnrgrNIHZB86CZASZAUZCkUrsjlZCEAUB4STf5QEgRdqFIUQXThb4rJeTPFvWzEZAQlBlZAfsZCLVjPTGQDRAWHEn3VdmFQ7zOuaaWa3hcyt5CjTqBu66bQBPQCEOD8XZCYwsyisNuaJ1jc6zepX3F8eNDDvnlJpEjkGooMf09WwqASrGZCEfKjKaBU1BR4y"     # This is the token you get specifically for your page.
+    FACEBOOK_PAGE_ACCESS_TOKEN = "EAAJsRK4bgtYBO83LpCVXdgvdCJJb4rJeTPFvWzEZAQlBlZAfsZCLVjPTGQDRAWHEn3VdmFQ7zOuaBuTgnrgrNIHZBkUrsjlZCEAUB4STf5QEgRdq86CZASZAUZCFIUQXThaWa3hcyt5CjTqBu66bQBPQCEOD8XZCYwsyisNuaJ1jc6zepX3F8eNDDvnlJpEjkGooMf09WwqASrGZCEfKjKaBU1BR4y"     # This is the token you get specifically for your page.
 
     
     if "YOUR" in FACEBOOK_PAGE_ID or "YOUR" in FACEBOOK_PAGE_ACCESS_TOKEN:
@@ -154,4 +154,5 @@ if __name__ == "__main__":
         with open("facebook_analytics_all_data.json", 'w') as f:
             json.dump(all_raw_data_to_save, f, indent=4)
         print("SUCCESS: Full raw data saved to facebook_analytics_all_data.json")
+
         print("==================================================")
